@@ -1,0 +1,40 @@
+# Логи
+*.log
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+python
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache
+.coverage
+.python-version
+
+# Виртуальные окружения
+venv/
+env/
+ENV/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Результаты выполнения
+output/
+dist/
+build/
+
+# Конфигурации
+config.ini
+secrets.py
+.env
