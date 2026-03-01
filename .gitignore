@@ -1,6 +1,9 @@
 # Логи
+main.log
+log_1.log
+log_2.log
+log_3.log
 *.log
-
 # Python
 __pycache__
 *.pyc
